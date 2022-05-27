@@ -3,7 +3,7 @@
 
 <br/>
 
-🚀Senior Blockchain Developer🚀
+🚀Full-Stack Blockchain Developer🚀
 
 I am a senior blockchain developer with rich experiences.
 
