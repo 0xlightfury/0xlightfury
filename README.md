@@ -16,7 +16,6 @@ I am a senior blockchain developer with rich experiences.
 ✅Creation Presale site<br/>
 ✅Creation Smart contracts<br/>
 (BEP20 token, ERC20 token, Presale contract, and so on)
-####      ![](https://img.shields.io/badge/%E2%9C%85-Forking%20OlympusDao-green) ![](https://img.shields.io/badge/%E2%9C%85-Forking%20Pancakeswap-brightgreen) ![](https://img.shields.io/badge/%E2%9C%85-Creation%20Presale%20site-blue) ![](https://img.shields.io/badge/%E2%9C%85-Creation%20Smart%20contracts-yellowgreen)
 
 ⭐️Other Services⭐️<br/>
 With strong knowlege of Solidity, javascript, typescript, python, web3, and so on, I will provide great result according to your special requirements.
