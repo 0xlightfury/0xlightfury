@@ -1,11 +1,11 @@
 
-### Hey 👋🏽, I'm [Nemanja Dordevic](https://t.me/nemanjadordevic)  
+### Hey 👋🏽, I'm [BlockchainTopDev](https://t.me/blockchaintopdev)  
 
 <br/>
 
 🚀Full-Stack Blockchain Developer🚀
 
-I am a senior blockchain developer with rich experiences.
+I am a full-stack blockchain developer with rich experiences.
 
 ⭐️Main Services⭐️<br/>
 ✅Forking Baked Beans<br/>
@@ -35,7 +35,7 @@ If you work with me, you will get full support for success of your project(idea)
 - 📫 Ask me about anything, I am happy to help
 
 **Connect with me:**
-- 💬 Telegram : [@nemanjadordevic](https://t.me/nemanjadordevic)
+- 💬 Telegram : [@blockchaintopdev](https://t.me/blockchaintopdev)
 
 **Languages and Tools:**   
 
@@ -55,4 +55,4 @@ If you work with me, you will get full support for success of your project(idea)
 
 
 
-⭐️ From [nemanjadordevic](https://github.com/nemanjadordevic)
+⭐️ From [blockchaintopdev](https://github.com/blockchaintopdev)
