@@ -1,5 +1,5 @@
 
-### Hey 👋🏽, I'm [5starDev](https://t.me/5stardev)  
+### Hey 👋🏽, I'm [CockSam](https://t.me/cocksam)  
 
 <br/>
 
@@ -35,7 +35,7 @@ If you work with me, you will get full support for success of your project(idea)
 - 📫 Ask me about anything, I am happy to help
 
 **Connect with me:**
-- 💬 Telegram : [@5stardev](https://t.me/5stardev)
+- 💬 Telegram : [@cocksam](https://t.me/cocksam)
 
 **Languages and Tools:**   
 
@@ -52,4 +52,4 @@ If you work with me, you will get full support for success of your project(idea)
 
 <br/>
 
-⭐️ From [5stardev](https://github.com/5stardev)
+⭐️ From [cocksam](https://github.com/cocksam)
