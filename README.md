@@ -1,5 +1,5 @@
 
-### Hey 👋🏽, I'm [BlockchainTopDev](https://t.me/blockchaintopdev)  
+### Hey 👋🏽, I'm [5starDev](https://t.me/5stardev)  
 
 <br/>
 
@@ -35,7 +35,7 @@ If you work with me, you will get full support for success of your project(idea)
 - 📫 Ask me about anything, I am happy to help
 
 **Connect with me:**
-- 💬 Telegram : [@blockchaintopdev](https://t.me/blockchaintopdev)
+- 💬 Telegram : [@5stardev](https://t.me/5stardev)
 
 **Languages and Tools:**   
 
@@ -52,4 +52,4 @@ If you work with me, you will get full support for success of your project(idea)
 
 <br/>
 
-⭐️ From [blockchaintopdev](https://github.com/blockchaintopdev)
+⭐️ From [5stardev](https://github.com/5stardev)
