@@ -1,11 +1,11 @@
 
-### Hey 👋🏽, I'm [CockSam](https://t.me/cocksam)  
+### Hey 👋🏽, I'm [AngryBird](https://t.me/cocksam)  
 
 <br/>
 
-🚀Full-Stack Blockchain Developer🚀
+🚀Senior Blockchain Developer🚀
 
-I am a full-stack blockchain developer with rich experiences.
+I am a senior blockchain developer with rich experiences.
 
 ⭐️Main Services⭐️<br/>
 ✅Forking Baked Beans<br/>
