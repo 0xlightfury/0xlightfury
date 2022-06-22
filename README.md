@@ -1,5 +1,5 @@
 
-### Hey 👋🏽, I'm [AngryBird](https://t.me/cocksam)  
+### Hey 👋🏽, I'm [CockSam](https://t.me/cocksam)  
 
 <br/>
 
