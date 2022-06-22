@@ -35,7 +35,7 @@ If you work with me, you will get full support for success of your project(idea)
 - 📫 Ask me about anything, I am happy to help
 
 **Connect with me:**
-- 💬 Telegram : [@cocksam](https://t.me/cocksam) , [@cocksam_ann](https://t.me/cocksam_ann)
+- 💬 Telegram : [@cocksam](https://t.me/cocksam)
 - 🔗 Website: [cocksam.com](https://cocksam.com)
 
 <br/>
