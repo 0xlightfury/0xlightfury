@@ -7,15 +7,11 @@
 
 I am a senior blockchain developer with rich experiences.
 
-⭐️Main Services⭐️<br/>
-✅Forking Baked Beans<br/>
-✅Forking Titano/Safuu<br/>
-✅Forking Tomb Finance<br/>
-✅Forking OlympusDao<br/>
-✅Forking Pancakeswap<br/>
-✅Creation Presale site<br/>
-✅Creation Smart contracts<br/>
-(BEP20 token, ERC20 token, Presale contract, and so on)
+✅ My goal is to provide to clients 100% satisfaction and to implement his ideas real so that make his business will be success.
+✅ Robust and Tiny code, Wonderful design, 100% safe security are my strong points.
+Whatever you want, I am always ready to accomplish.
+If you have a project in you mind, Please contact me so we could discuss it further.
+I am always ready for you.
 
 ####      ![](https://img.shields.io/badge/%E2%9C%85-Forking%20Baked%20Beans%20%20-yellow) ![](https://img.shields.io/badge/%E2%9C%85-Forking%20Titano/Safuu-blue) ![](https://img.shields.io/badge/%E2%9C%85-Forking%20OlympusDao-green) ![](https://img.shields.io/badge/%E2%9C%85-Forking%20Pancakeswap-brightgreen) ![](https://img.shields.io/badge/%E2%9C%85-Creation%20Presale%20site-blue) ![](https://img.shields.io/badge/%E2%9C%85-Creation%20Smart%20contracts-yellowgreen)<br/>
 
