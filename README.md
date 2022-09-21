@@ -3,9 +3,9 @@
 
 <br/>
 
-🚀Senior Blockchain Developer🚀
+🚀Blockchain Developer🚀
 
-I am a senior blockchain developer with rich experiences.
+I am a blockchain developer with rich experiences.
 My experiences are Dao Protocol, Peg Token Staking, Bond, Yield Farming, Pool, Swap, Auto-Staking & Auto-Compounding, Staking, Various Presale, Various ERC20/ERC721 Token and so on.
 
 ✅ My goal is to provide to clients 100% satisfaction and to implement his ideas real so that make his business will be success.<br/>
