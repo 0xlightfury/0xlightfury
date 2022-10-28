@@ -17,7 +17,6 @@ Experienced Protocols : Dao Protocol, Peg Token Staking, Bond, Yield Farming, Po
 - 📫 Ask me about anything, I am happy to help
 
 **Connect with me:**
-- 📞 Phone: [+381615540301](https://web.whatsapp.com/send?phone=+381615540301)
 - 💬 Telegram : [@cocksam](https://t.me/cocksam)
 
 <br/>
