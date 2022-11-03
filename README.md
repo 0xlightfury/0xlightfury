@@ -10,7 +10,7 @@
 </p>
 
 </br>
-<p align="center" style="display: flex; justify-content: center;">
+<p align="center">
   <a href="https://github.com/0xlightfury/github-readme-stats">
     <img
       height="150"
