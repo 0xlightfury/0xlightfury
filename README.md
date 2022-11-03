@@ -17,11 +17,11 @@
       src="https://github-readme-stats.vercel.app/api?username=0xlightfury&count_private=true&show_icons=true&custom_title=0xlightfury's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
     />
   </a>
-
   <a href="https://github.com/0xlightfury/github-readme-stats">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xlightfury&layout=compact&theme=vision-friendly-dark" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xlightfury&layout=compact&theme=vision-friendly-dark"
+    />
   </a>
 </p>
 
