@@ -22,7 +22,7 @@
     <img
       height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xlightfury&layout=compact&theme=vision-friendly-dark" />
-  </a>  
+  </a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
