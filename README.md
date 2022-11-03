@@ -1,24 +1,47 @@
-
-### [CockSam](https://t.me/cocksam) (blockchain dev)
-
-Experienced Protocols : Dao Protocol, Peg Token Staking, Bond, Yield Farming, Pool, Swap, Auto-Staking & Auto-Compounding, Staking, Various Presale, Various ERC20/ERC721 Token ...
-
-####      ![](https://img.shields.io/badge/%E2%9C%85-Forking%20Baked%20Beans%20%20-yellow) ![](https://img.shields.io/badge/%E2%9C%85-Forking%20Titano/Safuu-blue) ![](https://img.shields.io/badge/%E2%9C%85-Forking%20OlympusDao-green) ![](https://img.shields.io/badge/%E2%9C%85-Forking%20Pancakeswap-brightgreen) ![](https://img.shields.io/badge/%E2%9C%85-Creation%20Presale%20site-blue) ![](https://img.shields.io/badge/%E2%9C%85-Creation%20Smart%20contracts-yellowgreen)<br/>
-
-####      ![](https://img.shields.io/badge/Blockchain-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Solidity-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/React-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Web3.js-%7C-yellowgreen) ![](https://img.shields.io/badge/Ethers.js-%7C-yellowgreen) ![](https://img.shields.io/badge/TypeScript-%3C%2F%3E-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/JavaScript-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/CSS-%3C%2F%3E-yellowgreen) ![](https://img.shields.io/badge/HTML-%3C%2F%3E-ff69b4) ![](https://img.shields.io/badge/Python-%3C%2F%3E-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Smart%20Contracts-%7C-yellowgreen) ![](https://img.shields.io/badge/Front%20end%20web%20development-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Github-%7C-black) ![](https://img.shields.io/badge/Vercel-%7C-white)
-  
- <div>
-  <img align="right" alt="GIF" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="500" height="320" />
+<div align="center">
+  <a href="https://github.com/0xlightfury"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Blockchain%20developer;Full-Stack%20Software%20Architecture;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </div>
 
-**Talking about Personal Stuffs:**
+<p align="center">
+  <a href="https://github.com/0xlightfury?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/0xlightfury"/></a>
+  <a href="https://github.com/0xlightfury?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/0xlightfury?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>
 
-- 👨🏽‍💻 I’m currently working as a freelancer on various freelancing platform
-- 📫 Ask me about anything, I am happy to help
+</br>
+<p align="center">
+  <a href="https://github.com/0xlightfury/github-readme-stats">
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api?username=0xlightfury&count_private=true&show_icons=true&custom_title=0xlightfury's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
+    />
+   </a>
 
-**Connect with me:**
-- 💬 Telegram : [@cocksam](https://t.me/cocksam)
+  <a href="https://github.com/0xlightfury/github-readme-stats">
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xlightfury&layout=compact&theme=vision-friendly-dark" />
+  </a>  
+</p>
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
+<code><img height="40" src="https://camo.githubusercontent.com/07c382b68200c1a86d52d1682346e73e038b2f160c9afbc0af773fb3646882c8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6772617068716c2f6772617068716c2d69636f6e2e737667"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+</p>
 
 <br/>
-
-⭐️ From [cocksam](https://github.com/cocksam)
+<div>
+	<a href="https://github.com/0xlightfury/0xlightfury"><img alt="0xlightfury's activity graph" src="https://activity-graph.herokuapp.com/graph?username=0xlightfury&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
+</div>
