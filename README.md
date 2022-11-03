@@ -9,6 +9,10 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/0xlightfury?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
+<p>
+Very focused and polite worker that is capable of handling difficult tasks in a timely manner. Online and at your service for a job throughout most of the day and night. Will dedicate all efforts to each task assigned from my clients. I love to work with clients and establishing a healthy & strong relation which results in creating the best product.
+</p>
+
 <div align="center" style="display: flex; justify-content: center;">
   <span style="display: flex; align-items: center; padding-left: 20px"> <img src="./google.png" width="40" height="40" /> <span style="padding: 5px 0 20px 0px">be1512t6@gmail.com</span> </span>
   <span style="display: flex; align-items: center; padding-left: 20px"> <img src="./tg.png" width="40" height="40" /> <span style="padding: 10px 0 20px 0px">NAJI4765</span> </span>
