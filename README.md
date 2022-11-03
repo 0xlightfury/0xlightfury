@@ -21,6 +21,7 @@
     <img
       height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xlightfury&layout=compact&theme=vision-friendly-dark"
+	 style="max-width: 100%; visibility: visible;"
     />
   </a>
 </p>
