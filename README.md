@@ -19,7 +19,7 @@
   </a>
   <a href="https://github.com/0xlightfury/github-readme-stats">
     <img
-      height="100"
+      height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xlightfury&layout=compact&theme=vision-friendly-dark"
     />
   </a>
