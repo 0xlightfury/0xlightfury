@@ -9,6 +9,12 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/0xlightfury?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
+<div align="center" style="display: flex; justify-content: center;">
+  <span style="display: flex; align-items: center; padding-left: 20px"> <img src="./google.png" width="40" height="40" /> <span style="padding: 5px 0 20px 0px">be1512t6@gmail.com</span> </span>
+  <span style="display: flex; align-items: center; padding-left: 20px"> <img src="./tg.png" width="40" height="40" /> <span style="padding: 10px 0 20px 0px">NAJI4765</span> </span>
+  <span style="display: flex; align-items: center; padding-left: 20px"> <img src="./skype.png" width="40" height="40" /> <span style="padding: 10px 0 20px 0px">NAJI2329</span> </span>
+</div>
+
 </br>
 <p align="center">
   <a href="https://github.com/0xlightfury/github-readme-stats">
