@@ -44,6 +44,3 @@
 </p>
 
 <br/>
-<div>
-	<a href="https://github.com/0xlightfury/0xlightfury"><img alt="0xlightfury's activity graph" src="https://activity-graph.herokuapp.com/graph?username=0xlightfury&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
-</div>
