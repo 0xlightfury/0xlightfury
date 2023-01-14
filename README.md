@@ -9,22 +9,6 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/0xlightfury?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-</br>
-<p align="center">
-  <a href="https://github.com/0xlightfury/github-readme-stats">
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api?username=0xlightfury&count_private=true&show_icons=true&custom_title=0xlightfury's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
-    />
-  </a>
-  <a href="https://github.com/0xlightfury/github-readme-stats">
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xlightfury&layout=compact&theme=vision-friendly-dark"
-    />
-  </a> 
-</p>
-
 
 
 <h3 align="center">Languages and Tools:</h3>
